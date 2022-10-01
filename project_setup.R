@@ -32,8 +32,7 @@ rmd_names <- (
   c(
     # For preparing your data 
     "1_data_preparation",
-    # The merging file might also be combined 
-    # with the first file
+    # Merging raw data in a single file
     "2_merging", 
     # For your descriptives
     "3_descriptives",
