@@ -49,3 +49,7 @@ for (j in seq_along(rmd_names)) {
 
 # Create a helper function file
 file.create("src/R/functions/helper.R")
+
+# Create a Rproj file
+file.create("project_template.Rproj")
+
